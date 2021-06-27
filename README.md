@@ -26,9 +26,9 @@ Taking and managing attendance in online classes made easy with chrome extension
 - `{base_url}/api/subscribe`
 
 ### Links to other parts of the project
-- [https://github.com/ApoorvaRajBhadani/smartoclass-host](https://github.com/ApoorvaRajBhadani/smartoclass-host)
-- [https://github.com/ApoorvaRajBhadani/smartoclass-attendee](https://github.com/ApoorvaRajBhadani/smartoclass-attendee)
-- [https://github.com/ApoorvaRajBhadani/smartoclass-pushserver](https://github.com/ApoorvaRajBhadani/smartoclass-pushserver)
+- [https://github.com/ApoorvaRajBhadani/smart-oclass-host](https://github.com/ApoorvaRajBhadani/smart-oclass-host)
+- [https://github.com/ApoorvaRajBhadani/smart-oclass-attendee](https://github.com/ApoorvaRajBhadani/smart-oclass-attendee)
+- [https://github.com/ApoorvaRajBhadani/smart-oclass-pushserver](https://github.com/ApoorvaRajBhadani/smart-oclass-pushserver)
 
 
-**Note-** For complete demo of the project refer to [link](https://www.youtube.com/watch?v=74c9yu5rTWc)
+**Note-** For complete demo of the project refer to [link](https://youtu.be/NIId3N2t5wg)
